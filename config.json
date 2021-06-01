@@ -1,0 +1,6 @@
+{
+    "dbhost" : "mydb.czwo1ienneib.ap-south-1.rds.amazonaws.com",
+    "dbname" : "messageData",
+    "dbuser" :"himanshu",
+    "dbpassword" :"himanshu"
+}
